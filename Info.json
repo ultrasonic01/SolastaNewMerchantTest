@@ -1,0 +1,10 @@
+{
+	"Id": "SolastaNewMerchantTest",
+	"DisplayName": "SolastaNewMerchantTest",
+	"Author": "ultrasonic01",
+	"Version": "1.0.0",
+	"ManagerVersion": "0.22.13a",
+	"GameVersion": "0.3.3",
+	"AssemblyName": "SolastaNewMerchantTest.dll",
+	"EntryMethod": "SolastaNewMerchantTest.Main.Load"
+}
