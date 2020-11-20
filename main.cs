@@ -35,7 +35,7 @@ namespace SolastaNewMerchantTest
             catch (Exception ex)
             {
                 Error(ex);
-                throw ex;
+                throw;
             }
             return true;
         }
@@ -67,7 +67,7 @@ namespace SolastaNewMerchantTest
                 catch (Exception ex)
                 {
                     Error(ex);
-                    throw ex;
+                    throw;
                 }
             }
         }
